@@ -1,9 +1,9 @@
-<p align="cneter">
+<p align="center">
   <samp> 
     Welcome to Adill Git!  <br>
     Tech Stack: Swift, Kotlin, React Native, React, Vue, Ruby on Rails, Python <br>
      :point_down: Feel free  to contact me <br>
-     :e-mail:	<a href='mailto:aughr063@uottawa.ca'>Please drop me a line if you need to </a> <br>    
+     :e-mail:	<a href='mailto:aughr063@uottawa.ca'>Please drop me a line</a> <br>    
   </samp>
 </P>
 
